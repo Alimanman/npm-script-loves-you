@@ -22,3 +22,35 @@ npm config set init.version "0.1.0"
 ```
 npm init -f
 ```
+
+## 创建自定义 npm script
+
+### 1.添加 eslint 依赖
+
+-D等于--save-dev
+
+```
+npm install eslint -D
+```
+
+### 2.生成配置
+
+```
+eslint --init
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
