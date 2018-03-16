@@ -92,6 +92,12 @@ npm t
 
 这2种都可以
 
+此外，以上npm-run-all模式是顺序运行，如果要并行实行的话。
+
+```
+"test": "npm-run-all --parallel lint:js lint:css"
+```
+
 
 
 
