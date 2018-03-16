@@ -67,13 +67,21 @@ npm run eslint
 
 ## 运行多个 npm script
 
-### npm-run-all
+### 1.npm-run-all
 
 ```
 npm i npm-run-all -D
 ```
 
+### 2.package.json
 
+```
+"scripts": {
+    "lint:js": "eslint *.js",
+    "lint:css": "stylelint *.css",
+    "test": "npm-run-all lint:js lint:css"
+}
+```
 
 
 
