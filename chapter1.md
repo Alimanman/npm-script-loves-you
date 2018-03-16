@@ -46,7 +46,7 @@ eslint --init
 
 ```
 "scripts": {
-    "eslint": "eslint index.js",
+    "eslint": "eslint *.js",
     "test": "echo \"Error: no test specified\" && exit 1"
 }
 ```
