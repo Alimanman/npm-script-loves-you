@@ -70,7 +70,7 @@ npm run eslint
 ### npm-run-all
 
 ```
-npm-run-all
+npm i npm-run-all -D
 ```
 
 
