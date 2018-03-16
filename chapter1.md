@@ -16,3 +16,9 @@ npm config set init.author.url "http://git.rakuten-it.com"
 npm config set init.license "MIT"
 npm config set init.version "0.1.0"
 ```
+
+### 快速建立
+
+```
+npm init -f
+```
