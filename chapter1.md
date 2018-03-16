@@ -41,6 +41,21 @@ npm install eslint -D
 eslint --init
 ```
 
+### 3.添加 eslint 命令
+
+```
+"scripts": {
+    "eslint": "eslint index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+}
+```
+
+### 4.运行
+
+```
+npm run eslint
+```
+
 
 
 
