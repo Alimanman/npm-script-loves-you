@@ -59,6 +59,7 @@ npm run eslint
 
 - lint vue：https://github.com/vuejs/eslint-plugin-vue
 - lint style:https://stylelint.io/
+ - 新建`.stylelintrc`无后缀目录，加入规则。
 - lint json:https://github.com/zaach/jsonlint
 - lint markdown:https://github.com/igorshubovych/markdownlint-cli
 
