@@ -57,7 +57,7 @@ eslint --init
 npm run eslint
 ```
 
-如果要检测vue，https://github.com/vuejs/eslint-plugin-vue
+如果要检测vue：https://github.com/vuejs/eslint-plugin-vue
 
 ---
 
