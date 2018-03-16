@@ -85,12 +85,14 @@ npm i npm-run-all -D
 
 ### 3.运行
 
-这2种都可以
-
 ```
 npm test
 npm t
 ```
+
+这2种都可以
+
+
 
 
 
