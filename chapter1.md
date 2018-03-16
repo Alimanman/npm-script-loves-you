@@ -34,9 +34,9 @@ npm init -f
 npm install eslint -D
 ```
 
-### 2.生成配置
+### 2.生成规则
 
-配置好后，根目录自动生成已个`.eslintrc.js`文件。
+配置好后，根目录自动生成一个`.eslintrc.js`文件。
 
 ```
 eslint --init
