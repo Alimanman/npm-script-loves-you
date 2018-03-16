@@ -31,7 +31,7 @@ npm init -f
 -D等于--save-dev
 
 ```
-npm install eslint -D
+npm i eslint -D
 ```
 
 ### 2.生成规则
@@ -102,6 +102,9 @@ npm t
 
 npm-run-all文档：https://github.com/mysticatea/npm-run-all/blob/HEAD/docs/npm-run-all.md
 
+---
+
+///
 
 
 
