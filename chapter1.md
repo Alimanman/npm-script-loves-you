@@ -57,7 +57,10 @@ eslint --init
 npm run eslint
 ```
 
-如果要检测vue：https://github.com/vuejs/eslint-plugin-vue
+- lint vue：https://github.com/vuejs/eslint-plugin-vue
+- lint style:https://stylelint.io/
+- lint json:https://github.com/zaach/jsonlint
+- lint markdown:https://github.com/igorshubovych/markdownlint-cli
 
 ---
 
