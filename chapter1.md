@@ -65,7 +65,13 @@ npm run eslint
 
 ---
 
-///
+## 运行多个 npm script
+
+### npm-run-all
+
+```
+npm-run-all
+```
 
 
 
