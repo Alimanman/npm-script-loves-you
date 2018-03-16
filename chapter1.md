@@ -22,6 +22,7 @@ npm config set init.version "0.1.0"
 ```
 npm init -f
 ```
+---
 
 ## 创建自定义 npm script
 
