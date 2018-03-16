@@ -92,11 +92,15 @@ npm t
 
 这2种都可以
 
+### 并行实行
+
 此外，以上npm-run-all模式是顺序运行，如果要并行实行的话。
 
 ```
 "test": "npm-run-all --parallel lint:js lint:css"
 ```
+
+npm-run-all文档：https://github.com/mysticatea/npm-run-all/blob/HEAD/docs/npm-run-all.md
 
 
 
