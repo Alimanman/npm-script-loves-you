@@ -3,7 +3,7 @@
 
 ## npm script 的钩子
 
-`pre` 和 `post`
+`pre` 和 `post`,类似生命周期的机制。
 
 举例来说，运行 npm run test 的时候，分 3 个阶段：
 
