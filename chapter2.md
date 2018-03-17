@@ -32,3 +32,13 @@ npm run env
 ```
 
 ## 实现命令行自动补全
+
+npm completion
+
+``
+npm completion >> ~/.bashrc
+npm completion >> ~/.zshrc
+``
+
+- Oh My Zsh http://ohmyz.sh/
+- babun集成了zsh http://babun.github.io/
