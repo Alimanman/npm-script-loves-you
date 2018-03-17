@@ -112,6 +112,18 @@ eslint自动修复非语法类错误，命令行后添加`-- --fix`
 npm run lint:js -- --fix
 ```
 
+### 日志输出
+
+```
+npm test -s
+```
+
+### 更多内容
+
+```
+npm test -d
+```
+
 
 
 
