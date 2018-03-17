@@ -8,9 +8,9 @@
 举例来说，运行 npm run test 的时候，分 3 个阶段：
 
 ```
-"pretest":"1"
-"test":"2"
-"posttest":"3"
+"pretest": "echo 3",
+"test": "echo 2",
+"posttest": "echo 1"
 ```
 
 1. 检查 scripts 对象中是否存在 pretest 命令，如果有，先执行该命令；
