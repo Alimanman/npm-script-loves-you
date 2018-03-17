@@ -104,7 +104,13 @@ npm-run-all文档：https://github.com/mysticatea/npm-run-all/blob/HEAD/docs/npm
 
 ---
 
-///
+### 给 npm script 传递参数
+
+eslint自动修复非语法类错误，命令行后添加`-- --fix`
+
+```
+npm run lint:js -- --fix
+```
 
 
 
