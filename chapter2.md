@@ -1,4 +1,5 @@
 # 进阶篇
+
 ---
 
 ## npm script 的钩子
@@ -19,11 +20,11 @@
 
 运行`npm t`,显示的结果是：
 
-`
-3
-2
+```
+3  
+2  
 1
-`
+```
 
 ## npm script 中使用变量
 
@@ -35,10 +36,13 @@ npm run env
 
 npm completion
 
-``
-npm completion >> ~/.bashrc
+```
+npm completion >> ~/.bashrc  
 npm completion >> ~/.zshrc
-``
+```
 
-- Oh My Zsh http://ohmyz.sh/
-- babun集成了zsh http://babun.github.io/
+* Oh My Zsh [http://ohmyz.sh/](http://ohmyz.sh/)
+* babun集成了zsh [http://babun.github.io/](http://babun.github.io/)
+
+
+
