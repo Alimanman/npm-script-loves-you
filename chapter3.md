@@ -30,5 +30,15 @@ touch scripts/cover/serve.sh
 touch scripts/cover/open.sh
 ```
 
+修改package.json
+
+```
+"scripts": {
+     "cover": "scripty",
+     "cover:serve": "scripty",
+     "cover:open": "scripty"
+}
+```
+
 
 
