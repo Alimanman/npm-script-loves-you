@@ -35,7 +35,7 @@ npm i browser-sync-D
 ### 项目目录结构
 
 ```
-client
+src
 ├── images
 │   └── schedule.png
 ├── index.html
