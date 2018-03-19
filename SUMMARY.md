@@ -4,6 +4,6 @@
 * [入门篇](chapter1.md)
 * [进阶篇](chapter2.md)
 * [高阶篇](chapter3.md)
-* [chapter4](chapter4.md)
+* [实战篇](chapter4.md)
 * [chapter5](chapter5.md)
 
