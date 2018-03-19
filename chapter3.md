@@ -17,3 +17,18 @@ npm i cross-var -D
 npm i cross-env -D
 ```
 
+---
+
+## npm script 拆到单独文件中
+
+```
+npm i scripty -D
+
+mkdir -p scripts/cover
+touch scripts/cover.sh
+touch scripts/cover/serve.sh
+touch scripts/cover/open.sh
+```
+
+
+
