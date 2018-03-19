@@ -52,7 +52,9 @@ src
 4. 给图片加版本号并替换 js、css 中的引用；
 5. 给 js、css 加版本号并替换 html 中的引用；
 
+### 最终代码
 
+https://github.com/wangshijun/automated-workflow-with-npm-script
 
 
 
