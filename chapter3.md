@@ -11,3 +11,9 @@
 npm i cross-var -D
 ```
 
+## cross-env 设置环境变量
+
+```
+npm i cross-env -D
+```
+
