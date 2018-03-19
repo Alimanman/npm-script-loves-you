@@ -40,5 +40,8 @@ touch scripts/cover/open.sh
 }
 ```
 
+## 用 node.js 脚本替代复杂的 npm script
+
+~~~
 
 
